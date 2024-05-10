@@ -145,8 +145,7 @@ Fact table : It will have the data about the transactions
 Based on the mock ups received as requirement, the team will start designing the visuals and create measure as and when required
 
 ## Home view
-
- <img src="home.png" class="center">
+<img src="home.png" class="center">
 
 ## Finance view
  <img src="finance.png" class="center"> 
