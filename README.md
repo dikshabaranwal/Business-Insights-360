@@ -140,7 +140,30 @@ Fact table : It will have the data about the transactions
 - In this project, we have followed Snowfall data modeling method.
   <img src="datamodal.png" class="center">
   
+### Dashboard designing
 
+Based on the mock ups received as requirement, the team will start designing the visuals and create measure as and when required
 
+## Home view
+
+ <img src="home.png" class="center">
+
+## Finance view
+ <img src="finance.png" class="center"> 
+
+## Sales view
+ <img src="sales.png" class="center"> 
+
+ ## Marking view
+<img src="marketing.png" class="center">
+
+## Supply Chain view
+<img src="Supply Chain.png" class="center">
+
+## Executive view
+<img src="executive.png" class="center">
+
+## Info view
+<img src="info.png" class="center">
 
 
