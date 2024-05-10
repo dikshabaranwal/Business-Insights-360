@@ -153,11 +153,11 @@ Based on the mock ups received as requirement, the team will start designing the
 ## Sales view
  <img src="sales.png" class="center"> 
 
- ## Marking view
+ ## Marketing view
 <img src="marketing.png" class="center">
 
 ## Supply Chain view
-<img src="Supply Chain.png" class="center">
+<img src="supply chain.png" class="center">
 
 ## Executive view
 <img src="executive.png" class="center">
