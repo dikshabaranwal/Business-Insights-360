@@ -162,6 +162,10 @@ Based on the mock ups received as requirement, the team will start designing the
 ## Executive view
 <img src="executive.png" class="center">
 
+## Project Outcome
+
+By using this report, decisions can be taken based on the data. Further it will help in answering n number of why questions based on the situations.
+
 ## Info view
 <img src="info.png" class="center">
 
