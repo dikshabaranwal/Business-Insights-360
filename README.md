@@ -138,22 +138,11 @@ Fact table : It will have the data about the transactions
 - Poor data modeling affects the over all performance of the report.
 - Following Good practices of data modeling is must.
 - In this project, we have followed Snowfall data modeling method.
+  <img src="https://github.com/dikshabaranwal/Business_Insights_360/Data_model.png" class="center">
+  
 
-<img src="https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Data_model.png" class="center">
 
-### Dashboard designing
 
-Based on the mock ups received as requirement, the team will start designing the visuals and create measure as and when required
-
-## Home view
-
-In Home view, all the views button will be available. User will land on specific view page by clicking the button 
-
-- Info
-- Finance View
-- Sales View
-- Marketing View
-- Supply chain View
 - Executive View
 - Products
 - Support
